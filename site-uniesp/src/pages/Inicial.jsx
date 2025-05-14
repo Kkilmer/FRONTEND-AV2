@@ -66,7 +66,8 @@ const Inicial = () => {
                 <Card className="text-center h-100 shadow-sm">
                     <Card.Img
                         variant="top"
-                        src="Main Building"
+                        src="https://images.unsplash.com/photo-1652974731232-efc86a9bd985"
+                        alt="Main Building"
                         style={{ height: '200px', objectFit: 'cover' }}
                     />
                     <Card.Body>
