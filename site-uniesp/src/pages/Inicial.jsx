@@ -83,7 +83,7 @@ const Inicial = () => {
             </Col>   
         </Row>
 
-        { /* Segunda Linha com 2 colunas (para os cards ficarem lado a lado) */ }
+        { /* Segunda Linha com 2 colunas (454 para os cards ficarem lado a lado) */ }
 
         <Row className="g-4 mt-4">
             {/* Card 1 */}
